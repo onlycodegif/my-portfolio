@@ -17,7 +17,8 @@ export const PROJECTS: Project[] = [
     title: "Vision AI Assistant",
     description: "A real-time interactive perception system integrating CV, ASR, and TTS. Achieved 24–30 FPS live inference with 40% lower latency via on-device reasoning.",
     tags: ["Computer Vision", "ASR", "TTS", "Real-time"],
-    year: "2025"
+    year: "2025",
+    link: "https://visionai-d7b31.web.app/"
   },
   {
     id: 2,
